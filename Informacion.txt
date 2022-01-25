@@ -1,0 +1,10 @@
+https://giphy.com/login
+
+https://api.giphy.com/v1/gifs/search?q=pokemon&limit=10&api_key=FNMOEHuF0VivGYFEbtfbl8AsJO6Z00Pv
+https://developers.giphy.com/branch/master/docs/api/endpoint/#search
+
+Configuracion Scripts GH Pages con React
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+}
